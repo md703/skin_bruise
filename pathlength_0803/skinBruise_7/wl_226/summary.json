@@ -1,0 +1,13 @@
+{
+"MCML_version_K": 2.03,
+"num_photon": 100000000,
+"sim_time": 2.91149,
+"replay_time": 0.313321,
+"sim_speed(photons/s)": 3.10095e+07,
+"sim_GPU": "GeForce RTX 2080",
+"each_photon_weight": 4.29497e+17,
+"number_layers": 3,
+"detect_mode": "ring",
+"num_SDS": 1,
+"SDS_detected_number": [ 439817 ]
+}
